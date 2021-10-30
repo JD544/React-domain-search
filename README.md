@@ -84,3 +84,14 @@ Pass parameters to the domain search engine to customize the experience
 ajax: Boolean - Defines if the search operations should happen as you type or when you click a button
 
 related: Boolean - Enables or Disables search suggestions
+
+
+# Adding a Loading icon 
+
+Set a loading icon while the domain search engine is searching
+
+<img alt="Loading icon" src="https://user-images.githubusercontent.com/63194009/139555568-b8a70f55-dd3b-4517-9407-2c2dc28dd0d7.png" />
+
+Turning on the Loader
+
+<img alt="Loader config" src="https://user-images.githubusercontent.com/63194009/139539883-b9b36231-7096-4ab6-91ef-6af5ec9f11b6.png" />
