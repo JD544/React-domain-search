@@ -43,7 +43,7 @@ Click on the API key to copy it and then paste it
 
 ## Getting a Reseller Club Client ID and secret
 
-Login to your account at: <a href="https://manage.uk.resellerclub.com/servlet/AuthServlet">Your Reseller club console/</a>
+Login to your account at: <a href="https://manage.uk.resellerclub.com/">Your Reseller club console</a>
 
 Navigate to: Settings> API
 
