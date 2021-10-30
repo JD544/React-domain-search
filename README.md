@@ -75,3 +75,14 @@ We can also display a list of the TLDS which we can use and the price for them
 We can set a list of TLDS which can be used, also we can set the price for these individually
 
 <img alt="Domain TLD object" src="https://user-images.githubusercontent.com/63194009/139554950-cfc6a634-1059-41a3-b6d4-345af922314d.png" />
+
+
+# Configuration settings
+
+Pass parameters to the domain search engine to customize the experience
+
+## Properties
+
+ajax: Boolean - Defines if the search operations should happen as you type or when you click a button
+
+related: Boolean - Enables or Disables search suggestions
