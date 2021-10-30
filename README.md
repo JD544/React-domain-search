@@ -4,8 +4,6 @@ This repository provides domain search functionality for Hosting company's and D
 
 ## Requirments
 
-Tailwind CSS
-
 React 
 
 ## Setup!
