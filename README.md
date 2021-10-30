@@ -48,6 +48,7 @@ Login to your account at: <a href="https://manage.uk.resellerclub.com/">Your Res
 
 Navigate to: Settings> API
 
+
 Copy and paste your key into the "Client Secret"
 
 Click on the user icon to get your "Reseller ID" and paste your ID into the "Client ID"
@@ -60,3 +61,10 @@ To display the domain results, firstly we have to make use of the "Map" function
 
 
 <img alt="Domain results map" src="https://user-images.githubusercontent.com/63194009/139554283-3a914497-b081-449f-b0f0-944cd8cd6397.png" />
+
+
+# Displaying TLD Prices
+
+We can also display a list of the TLDS which we can use and the price for it
+
+<img alt="TLD map" src="https://user-images.githubusercontent.com/63194009/139554793-5b1055b3-57d7-4632-aee4-eaa25c3ba985.png" />
