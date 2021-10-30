@@ -40,3 +40,13 @@ Create your free account at <a href="https://my.whoapi.com/">https://my.whoapi.c
 Then navigate to: Console
 
 Click on the API key to copy it and then paste it 
+
+## Getting a Reseller Club Client ID and secret
+
+Login to your account at: <a href="https://manage.uk.resellerclub.com/servlet/AuthServlet">Your Reseller club console/</a>
+
+Navigate to: Settings> API
+
+Copy and paste your key into the "Client Secret"
+
+Click on the user icon to get your "Reseller ID" and paste your ID into the "Client ID"
