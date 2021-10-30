@@ -65,6 +65,6 @@ To display the domain results, firstly we have to make use of the "Map" function
 
 # Displaying TLD Prices
 
-We can also display a list of the TLDS which we can use and the price for it
+We can also display a list of the TLDS which we can use and the price for them
 
 <img alt="TLD map" src="https://user-images.githubusercontent.com/63194009/139554793-5b1055b3-57d7-4632-aee4-eaa25c3ba985.png" />
