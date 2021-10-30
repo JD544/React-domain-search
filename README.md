@@ -31,3 +31,12 @@ availbility: Set the availbility status of the domain
 price: Set the price of the domain 
 
 unavailible: Boolean
+
+
+# Getting an API key
+
+Create your free account at <a href="https://my.whoapi.com/">https://my.whoapi.com/</a>
+
+Then navigate to: Console
+
+Click on the API key to copy it and then paste it 
