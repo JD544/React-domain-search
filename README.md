@@ -23,6 +23,9 @@ You can also set "Static domain suggestions by editing this object
 <img alt="Static domain suggestions" src="https://user-images.githubusercontent.com/63194009/139540347-bb7beffc-dcf7-4974-bf1e-47df98076047.png" />
 
 Domain: Set the name of the domain
+
 availbility: Set the availbility status of the domain
+
 price: Set the price of the domain 
+
 unavailible: Boolean
