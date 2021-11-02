@@ -1,6 +1,12 @@
 # React-domain-search
 This repository provides domain search functionality for Hosting company's and Domain registrars
 
+# Features
+
+Auto Input TLD - Automaically add a .com to your domain by default
+
+Price Matching - The domain price will depend on the price for the tld which you use
+
 
 ## Requirements
 
