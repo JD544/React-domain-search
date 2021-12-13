@@ -140,7 +140,7 @@ export default class DomainSearch extends Component {
           const Price = this.retrieveTLDPrice(query + tld)
         if (query && status && isAvailablecheck) {                    
             const domainResult = [
-                { domain: query + tld, availbility: status, price: Price, unavailible: isUnavailable},
+                { domain: query + tld, availbility: status, price: Price, unavailible: isUnavailable },
             ]
             this.setState({
                 DomainResults: domainResult
